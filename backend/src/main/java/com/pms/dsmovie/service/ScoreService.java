@@ -9,9 +9,9 @@ import com.pms.dsmovie.dto.ScoreDTO;
 import com.pms.dsmovie.model.Movie;
 import com.pms.dsmovie.model.Score;
 import com.pms.dsmovie.model.User;
-import com.pms.dsmovie.repositories.MovieRepository;
-import com.pms.dsmovie.repositories.ScoreRepository;
-import com.pms.dsmovie.repositories.UserRepository;
+import com.pms.dsmovie.repository.MovieRepository;
+import com.pms.dsmovie.repository.ScoreRepository;
+import com.pms.dsmovie.repository.UserRepository;
 
 @Service
 public class ScoreService {

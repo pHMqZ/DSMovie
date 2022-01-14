@@ -8,7 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.pms.dsmovie.dto.MovieDTO;
 import com.pms.dsmovie.model.Movie;
-import com.pms.dsmovie.repositories.MovieRepository;
+import com.pms.dsmovie.repository.MovieRepository;
 
 @Service
 public class MovieService {

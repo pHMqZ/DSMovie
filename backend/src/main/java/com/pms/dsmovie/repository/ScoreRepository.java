@@ -1,4 +1,4 @@
-package com.pms.dsmovie.repositories;
+package com.pms.dsmovie.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
