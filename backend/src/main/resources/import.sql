@@ -37,5 +37,5 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Aquaman', 'https
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 1, 5.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 2, 4.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 1, 3.0);
-INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 2, 3.0);
+INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 2, 2.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 3, 3.5);
