@@ -1,15 +1,18 @@
+
 import { ReactComponent as Github } from 'assets/img/github.svg';
+import { BASE_URL } from 'utils/requests';
 import './styles.css';
 
 
 function Navbar() {
 
+    
     return (
         <header>
             <nav className="container">
                 
                 <div className="dsmovieph-nav-content">
-                    <h1>DSMovie</h1>
+                    <a href= {`${BASE_URL}`}><h1>DSMovie</h1></a>
                     <a href="https://github.com/pHMqZ">
                         <div className='dsmovieph-contact-container'>
                             <Github />
