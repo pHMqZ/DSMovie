@@ -12,7 +12,7 @@ function Navbar() {
             <nav className="container">
                 
                 <div className="dsmovieph-nav-content">
-                    <a href= {`${BASE_URL}`}><h1>DSMovie</h1></a>
+                    <a href= {`${BASE_URL}/`}><h1>DSMovie</h1></a>
                     <a href="https://github.com/pHMqZ">
                         <div className='dsmovieph-contact-container'>
                             <Github />
