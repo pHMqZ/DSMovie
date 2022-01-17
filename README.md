@@ -3,7 +3,9 @@
 
 <p>Projeto realizado na Semana Spring React de 2022 do <a href="https://github.com/devsuperior"> professor Nelio Alves </a> - 10/01/2022 - 14/01/2022</p>
 
-<p>Durante a Semana Spring React foi realizado um projeto simulando um catalogo de filmes para avaliação de usuarios</p>
+<p>Durante a Semana Spring React foi realizado um projeto simulando um catalogo de filmes para avaliação de usuários</p>
+
+
 
 <body>
   <h2> <b>Tecnologias utilizadas:</b> </h2>
@@ -37,6 +39,7 @@
         </li>
         <li>prod - Ambiente de produção:
           <p>- Ambiente de conexão do Frontend e Backend e também hospedagem na nuvem.
+          <p>- Link da aplicação integrada na nuvem: https://dsmoviephillip.netlify.app/ </p>
         </li>
       </ol>
 </body>
